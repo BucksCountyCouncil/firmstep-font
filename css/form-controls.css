@@ -20,3 +20,5 @@
 }
 .icon-select:before{content:'\0041';}
 .icon-select-select:before{content:'\0042';}
+.icon-radio:before{content:'\0043';}
+.icon-radio-select:before{content:'\0044';}
