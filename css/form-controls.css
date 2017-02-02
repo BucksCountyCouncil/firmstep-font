@@ -18,7 +18,5 @@
    -webkit-font-smoothing: antialiased;
    -moz-osx-font-smoothing: grayscale
 }
-.icon-radio:before{content:'\0041';}
-.icon-radio-select:before{content:'\0042';}
-.icon-select:before{content:'\0043';}
-.icon-select-select:before{content:'\0044';}
+.icon-select:before{content:'\0041';}
+.icon-select-select:before{content:'\0042';}
